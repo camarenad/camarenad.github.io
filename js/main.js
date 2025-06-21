@@ -156,7 +156,7 @@ function animateCounter(element, target, suffix) {
 // Email reveal functionality
 function revealEmail(button) {
   // Construct email (bot-resistant method)
-  const emailParts = ['dcamarena0229', 'gmail', 'com'];
+  const emailParts = ['hello', 'example', 'com'];
   const email = emailParts[0] + '@' + emailParts[1] + '.' + emailParts[2];
   
   // Find elements
