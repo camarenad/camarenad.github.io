@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 
-  // Smooth scrolling for navigation links
+  // Enhanced smooth scrolling for navigation links
   navLinks.forEach(link => {
     link.addEventListener('click', function(e) {
       e.preventDefault();
@@ -43,11 +43,11 @@ document.addEventListener('DOMContentLoaded', function() {
       const targetSection = document.querySelector(targetId);
       
       if (targetSection) {
-        const offsetTop = targetSection.offsetTop - 70;
-        window.scrollTo({
-          top: offsetTop,
-          behavior: 'smooth'
-        });
+        const navbarHeight = navbar ? navbar.offsetHeight : 60;
+        const offsetTop = targetSection.offsetTop - navbarHeight - 10;
+        
+        // Use custom smooth scroll with easing
+        smoothScrollTo(offsetTop, 800);
       }
     });
   });
@@ -362,4 +362,33 @@ if (!document.querySelector('#dynamic-styles')) {
     }
   `;
   document.head.appendChild(style);
-} 
+}
+
+// Custom smooth scroll function with easing
+function smoothScrollTo(targetPosition, duration = 800) {
+  const startPosition = window.pageYOffset;
+  const distance = targetPosition - startPosition;
+  let startTime = null;
+
+  // Easing function (ease-in-out-cubic)
+  function easeInOutCubic(t) {
+    return t < 0.5 ? 4 * t * t * t : (t - 1) * (2 * t - 2) * (2 * t - 2) + 1;
+  }
+
+  function animation(currentTime) {
+    if (startTime === null) startTime = currentTime;
+    const timeElapsed = currentTime - startTime;
+    const progress = Math.min(timeElapsed / duration, 1);
+    
+    const easedProgress = easeInOutCubic(progress);
+    const currentPosition = startPosition + (distance * easedProgress);
+    
+    window.scrollTo(0, currentPosition);
+    
+    if (progress < 1) {
+      requestAnimationFrame(animation);
+    }
+  }
+
+  requestAnimationFrame(animation);
+}
