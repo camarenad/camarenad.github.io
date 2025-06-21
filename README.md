@@ -1,74 +1,205 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
+# Daniel Camarena | Data Analyst Portfolio
 
-[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+[![Live Site](https://img.shields.io/badge/Live%20Site-camarenad.github.io-blue?style=for-the-badge)](https://camarenad.github.io)
+[![GitHub Pages](https://img.shields.io/badge/Deployed%20with-GitHub%20Pages-green?style=for-the-badge&logo=github)](https://pages.github.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Preview
+> A modern, responsive portfolio website showcasing data analysis expertise and professional experience across healthcare, telehealth, gaming, and education industries.
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
+## 🚀 Live Demo
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Portfolio →](https://camarenad.github.io)**
 
-## Status
+## 📋 About
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-resume)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
+This portfolio website represents my journey as a Data Analyst, featuring:
 
-## Download and Installation
+- **5+ years of experience** transforming raw data into actionable insights
+- **6 companies served** across diverse industries
+- **End-to-end analytics solutions** from data pipelines to executive dashboards
+- **Scalable automation workflows** improving operational efficiency
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/resume/)
-* Install via npm: `npm i startbootstrap-resume`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-resume.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-resume)
+### What Makes This Portfolio Unique
 
-## Usage
+- **Modern Design**: Clean, professional aesthetic with glassmorphism effects and smooth animations
+- **Mobile-First**: Fully responsive design optimized for all devices
+- **Performance Optimized**: Fast loading times with optimized assets and efficient CSS/JS
+- **Interactive Elements**: Smooth scrolling, hover effects, and engaging user interactions
+- **Professional Branding**: Consistent use of Pantone 294 (#003f7f) brand color throughout
 
-### Basic Usage
+## 🛠️ Technologies Used
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+### Frontend
+- **HTML5** - Semantic markup and accessibility
+- **CSS3** - Custom properties, Flexbox, Grid, animations
+- **JavaScript** - Smooth scrolling, intersection observers, mobile menu
+- **Font Awesome** - Professional iconography
+- **Google Fonts** - Inter font family for modern typography
 
-### Advanced Usage
+### Design & UX
+- **Mobile-First Design** - Responsive across all screen sizes
+- **Glassmorphism Effects** - Modern visual styling with backdrop filters
+- **Smooth Animations** - CSS transitions and transforms for enhanced UX
+- **Color Psychology** - Strategic use of blue (#003f7f) for trust and professionalism
 
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+### Deployment
+- **GitHub Pages** - Static site hosting
+- **Custom Domain Ready** - Prepared for custom domain integration
+- **HTTPS Enabled** - Secure connection by default
 
-#### Gulp Tasks
+## 🎯 Key Features
 
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
+### 📊 Professional Experience Timeline
+- **6 companies** with detailed role descriptions
+- **Tech stack tags** for each position
+- **Achievement-focused** bullet points
+- **Industry diversity** showcase
 
-You must have npm and Gulp installed globally on your machine in order to use these features.
+### 🔧 Technical Skills Matrix
+- **4 core categories** of expertise
+- **20+ technologies** and tools
+- **Interactive hover effects**
+- **Organized by capability**
 
-## Troubleshooting and Help
+### 📈 Performance Metrics
+- **Quantified achievements** with specific numbers
+- **Industry impact** across 4 different sectors
+- **Stakeholder reach** of 100+ professionals
+- **Years of experience** clearly highlighted
 
-Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap.
+### 📱 Responsive Design
+- **Mobile-optimized** navigation with hamburger menu
+- **Tablet-friendly** layout adjustments
+- **Desktop-enhanced** hover states and interactions
+- **Cross-browser** compatibility
 
-**[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
+## 🚦 Getting Started
 
-## Bugs and Issues
+### Prerequisites
+- Modern web browser (Chrome, Firefox, Safari, Edge)
+- Internet connection for external fonts and icons
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
+### Local Development
 
-## About
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/camarenad/camarenad.github.io.git
+   cd camarenad.github.io
+   ```
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+2. **Open in browser**
+   ```bash
+   # Option 1: Direct file opening
+   open index.html
+   
+   # Option 2: Local server (recommended)
+   python -m http.server 8000
+   # Then visit http://localhost:8000
+   ```
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+3. **Make changes**
+   - Edit `index.html` for content
+   - Modify `css/main.css` for styling
+   - Update `js/main.js` for functionality
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+### Deployment
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+The site is automatically deployed via GitHub Pages when changes are pushed to the `master` branch.
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## 📁 Project Structure
 
-## Copyright and License
+```
+camarenad.github.io/
+├── index.html              # Main HTML file
+├── css/
+│   └── main.css           # Custom styles and responsive design
+├── js/
+│   └── main.js            # Interactive functionality
+├── img/
+│   └── profile.jpeg       # Professional headshot
+├── vendor/                # Third-party libraries
+│   ├── bootstrap/         # Bootstrap framework
+│   ├── fontawesome-free/  # Font Awesome icons
+│   ├── jquery/            # jQuery library
+│   └── jquery-easing/     # Smooth scrolling effects
+├── .nojekyll             # GitHub Pages configuration
+├── LICENSE               # MIT License
+└── README.md             # This file
+```
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+## 🎨 Design Philosophy
+
+### Color Palette
+- **Primary**: Pantone 294 (#003f7f) - Professional blue conveying trust and expertise
+- **Secondary**: White (#ffffff) - Clean, modern aesthetic
+- **Accent**: Gradient overlays for visual interest
+- **Text**: Dark grays for optimal readability
+
+### Typography
+- **Primary Font**: Inter - Modern, highly legible sans-serif
+- **Weights**: 300, 400, 500, 600, 700, 800
+- **Hierarchy**: Clear distinction between headings, body text, and captions
+
+### User Experience
+- **Progressive Enhancement**: Works without JavaScript, enhanced with it
+- **Accessibility**: Semantic HTML, proper ARIA labels, keyboard navigation
+- **Performance**: Optimized images, efficient CSS, minimal JavaScript
+- **Mobile-First**: Designed for mobile, enhanced for desktop
+
+## 📊 Analytics & Performance
+
+### Core Web Vitals
+- **Largest Contentful Paint (LCP)**: < 2.5 seconds
+- **First Input Delay (FID)**: < 100 milliseconds
+- **Cumulative Layout Shift (CLS)**: < 0.1
+
+### SEO Optimization
+- **Meta descriptions** for search engine visibility
+- **Semantic HTML** structure
+- **Open Graph** tags for social media sharing
+- **Schema markup** for rich snippets
+
+## 🤝 Contributing
+
+While this is a personal portfolio, I welcome feedback and suggestions:
+
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/improvement`)
+3. **Commit** your changes (`git commit -am 'Add improvement'`)
+4. **Push** to the branch (`git push origin feature/improvement`)
+5. **Create** a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact
+
+**Daniel Camarena**  
+Data Analyst | Portland, OR
+
+- **Email**: [dcamarena0229@gmail.com](mailto:dcamarena0229@gmail.com)
+- **Portfolio**: [camarenad.github.io](https://camarenad.github.io)
+- **Location**: Portland, Oregon
+
+---
+
+## 🙏 Acknowledgments
+
+- **Bootstrap** - For the foundational CSS framework
+- **Font Awesome** - For professional iconography
+- **Google Fonts** - For the Inter font family
+- **GitHub Pages** - For reliable, free hosting
+- **Design Inspiration** - Modern portfolio trends and UX best practices
+
+---
+
+<div align="center">
+
+**Built with ❤️ in Portland, OR**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-blue?style=for-the-badge)](https://camarenad.github.io)
+
+</div>
